@@ -58,7 +58,11 @@ Promoter-level differences in motif content between secreted and non-secreted ef
 
 ### Acknowledgments
 
-> We acknowledge **OpenAI's ChatGPT** for assisting in structuring this notebook and for helping adapt our analysis tools (MEME Suite, TOMTOM, FIMO, etc.) into a **Nextflow-compatible pipeline** to support scalable and reproducible research workflows.
+This repository is part of the PhD research conducted by Sakshi Bharti at the Senckenberg Biodiversity and Climate Research Center, affiliated with Goethe University, Frankfurt. The work was carried out under the supervision of Prof. Dr. Marco Thines, with the aim of developing reproducible and scalable pipelines for effector prediction and promoter motif analysis in oomycetes.
+
+Special thanks to:
+- The developers of the original [POOE tool](https://github.com/zzdlabzm/POOE), which this notebook builds upon.
+- OpenAI, for providing AI assistance in drafting the workflow structure and standardizing documentation formats.
 
 ---
 
