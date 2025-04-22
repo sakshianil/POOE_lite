@@ -3,7 +3,7 @@
 ![Oomycete](https://img.shields.io/badge/Oomycete-Pipeline-blue)
 ![Notebook](https://img.shields.io/badge/Platform-Kaggle/Colab-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+[![DOI](https://zenodo.org/badge/953001124.svg)](https://doi.org/10.5281/zenodo.15261581)
 This repository contains the `pooe-lite.ipynb` notebook—a simplified, user-friendly implementation of the [POOE](https://github.com/zzdlabzm/POOE) tool for effector prediction, designed to run efficiently on Kaggle notebooks or Google Colab. This version facilitates quick analysis of secreted and non-secreted effector genes and their associated promoter motifs across oomycete pathogens.
 
 ---
