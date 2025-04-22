@@ -56,13 +56,13 @@ Promoter-level differences in motif content between secreted and non-secreted ef
 > [https://github.com/zzdlabzm/POOE](https://github.com/zzdlabzm/POOE)  
 > Please cite the original POOE tool if you use this notebook (https://github.com/sakshianil/POOE_lite) in your research.
 
-### 🙏 Acknowledgments
+### Acknowledgments
 
 > We acknowledge **OpenAI's ChatGPT** for assisting in structuring this notebook and for helping adapt our analysis tools (MEME Suite, TOMTOM, FIMO, etc.) into a **Nextflow-compatible pipeline** to support scalable and reproducible research workflows.
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for details.
 
