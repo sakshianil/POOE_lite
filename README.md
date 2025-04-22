@@ -7,9 +7,9 @@ This repository hosts the `pooe-lite.ipynb` notebook—a lightweight, interpreta
 ## Overview
 
 Effector proteins secreted by oomycete pathogens manipulate host defenses and facilitate infection. This notebook:
-- Predicts effector proteins using lightweight bioinformatics filters.
+- Predicts effector proteins using lightweight bioinformatics filters on kaggle notebook.
 - Differentiates putative effectors vs. non-effectors.
-- Analyzes 1000 bp upstream promoter regions.
+- Analyzes oomycete proteomes.
 
 ## Contents
 
