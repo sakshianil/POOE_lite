@@ -1,0 +1,32 @@
+{
+  "title": "POOE-Lite: A lightweight, Kaggle-friendly version of POOE for effector prediction in oomycetes",
+  "upload_type": "software",
+  "description": "POOE-Lite provides a streamlined implementation of the POOE tool for effector prediction, adapted for ease of use in Kaggle notebooks and integration into Nextflow pipelines. It facilitates motif analysis using MEME, JASPAR, and ELM databases. This version retains the core functionality of POOE while enhancing accessibility for computational workflows.",
+  "creators": [
+    {
+      "name": "Bharti, Sakshi",
+      "affiliation": "Senckenberg Biodiversity and Climate Research Center, Goethe University Frankfurt"
+    },
+    {
+      "name": "Thines, Marco",
+      "affiliation": "Senckenberg Biodiversity and Climate Research Center, Goethe University Frankfurt"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "oomycetes",
+    "effector prediction",
+    "Nextflow",
+    "bioinformatics",
+    "motif analysis",
+    "plant-pathogen interaction",
+    "transcriptional regulation"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/zzdlabzm/POOE"
+    }
+  ],
+  "version": "1.0.0"
+}
